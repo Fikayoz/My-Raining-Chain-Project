@@ -1,0 +1,2 @@
+Take note of Playlist Episode 3 - Notably 3:40.
+    - Alternate syntax for referencing object variables - could be quite useful
