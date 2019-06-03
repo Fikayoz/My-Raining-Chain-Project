@@ -1,0 +1,7 @@
+- Damage up, 
+- Speed up,
+- enemy speed down (Bullet Time)
+- Fire rate up
+
+- Hitbox reduced
+- Enemy hitbox increased/projectile size increased
