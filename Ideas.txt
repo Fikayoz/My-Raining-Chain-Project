@@ -1,0 +1,8 @@
+Powerup Implementation Idea:
+    - Question will pop up @ various intervals
+    - Player will select a question tier/difficulty
+    - Player will be asked a question with a time limit
+    - If player gets question right, buff will be added. If wrong, nothing happens/nerf happens
+    - Time limit on questions
+    - Probably start with 3 tiers of questions. 
+    - Use randomized math questions to start with

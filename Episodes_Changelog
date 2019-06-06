@@ -1,0 +1,20 @@
+Episode 6:
+    - Timer added in playlist Episode 6
+    - Player control added (mouse)
+    - Added player HP
+
+Episode 7:
+    - Letter to Rectangle Representation Changes
+    - New Rectangle-based Collisions systems
+    - Different Enemy shapes (varying rectangle sizes)
+
+Episode 8: 
+    - Fix out-of-bounds issue
+    - Fix Non-centering of player on mouse
+    - Added randomly generated enemies
+    - Addition of Frame Counter Variable 
+
+Episode 9
+    - Added Score Display
+    - Added powerups
+    - Added Bullets
