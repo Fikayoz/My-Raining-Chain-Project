@@ -17,4 +17,9 @@ Episode 8:
 Episode 9
     - Added Score Display
     - Added powerups
-    - Added Bullets
+    - Added Bullets (Randomly generated every few seconds)
+
+Episode 10
+    - Bullet collision with enemy (Logic to remove enemies)
+    - Bullet Timer to prevent eternal bullets
+    - Upgrades to increase fire rate
