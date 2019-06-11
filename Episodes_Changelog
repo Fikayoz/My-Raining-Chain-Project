@@ -23,3 +23,7 @@ Episode 10
     - Bullet collision with enemy (Logic to remove enemies)
     - Bullet Timer to prevent eternal bullets
     - Upgrades to increase fire rate
+    
+Episode 11
+    - Change the player to be controlled by keyboard
+    - Bullet shots are changed to be on click rather than randomly
